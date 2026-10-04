@@ -25,8 +25,8 @@ To practise turning raw sales data into a clear performance summary, answering q
 
 | Sheet | Contents |
 |-------|----------|
-| `RAW DATA` | Source data: 141 rows, 12 columns |
-| `Sheet1` | 4 pivot tables, 3 charts and a Region slicer |
+| `Raw Data` | Source data: 141 rows, 12 columns |
+| `Dashboard` | 4 pivot tables, 3 charts and a Region slicer |
 
 ## Dataset
 
@@ -70,7 +70,7 @@ To practise turning raw sales data into a clear performance summary, answering q
 1. Download or clone this repository.
 2. Open `Pivot_Table_Practice.xlsm` in Microsoft Excel.
 3. If prompted, click **Enable Content** (the file is macro-enabled; it contains no macros that change your data).
-4. Open `Sheet1` and use the **Region slicer** to filter the pivot tables and charts.
+4. Open `dashboard` and use the **Region slicer** to filter the pivot tables and charts.
 
 ## Next Steps
 - [ ] Add a Region-wise pivot table and a Day-wise trend chart
